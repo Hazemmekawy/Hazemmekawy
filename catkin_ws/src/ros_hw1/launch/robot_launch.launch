@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+<node pkg="ros_hw1" type="node1.py" name="node_1" output="screen"/>
+<node pkg="ros_hw1" type="node2.py" name="node_2" output="screen"/>
+<node pkg="ros_hw1" type="node3.py" name="node_3" output="screen"/>
+</launch>

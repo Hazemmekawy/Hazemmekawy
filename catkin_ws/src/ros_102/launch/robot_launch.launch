@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+ <node pkg="ros_102" type="publisher2.py" name="publisher2" output="screen"/>
+ <node pkg="ros_102" type="subscriber2.py" name="subscriber2" output="screen"/>
+</launch>
+
